@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[jmarcet's blog]]></title>
+  <link href="http://marcet.info/atom.xml" rel="self"/>
+  <link href="http://marcet.info/"/>
+  <updated>2014-05-26T07:37:49+02:00</updated>
+  <id>http://marcet.info/</id>
+  <author>
+    <name><![CDATA[Javier Marcet]]></name>
+    <email><![CDATA[javier@marcet.info]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This is post]]></title>
+    <link href="http://marcet.info/awesome-sauce/2011/06/01/this-is-a-test.html"/>
+    <updated>2011-06-01T14:44:00+02:00</updated>
+    <id>http://marcet.info/awesome-sauce/2011/06/01/this-is-a-test</id>
+    <content type="html"><![CDATA[<p>Booyah!</p>
+
+]]></content>
+  </entry>
+  
+</feed>
