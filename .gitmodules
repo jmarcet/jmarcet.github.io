@@ -1,0 +1,51 @@
+[submodule ".themes/oct2-orange"]
+	path = .themes/oct2-orange
+	url = git://github.com/roberto/oct2-orange.git
+[submodule ".themes/oct2"]
+	path = .themes/oct2
+	url = https://github.com/bijumon/oct2.git
+[submodule ".themes/jovanovic"]
+	path = .themes/jovanovic
+	url = git://github.com/ivanjovanovic/ji-octopress-theme.git
+[submodule ".themes/bootstrap-theme"]
+	path = .themes/bootstrap-theme
+	url = git://github.com/bkutil/bootstrap-theme.git
+[submodule ".themes/justin-kelly-theme"]
+	path = .themes/justin-kelly-theme
+	url = git://github.com/wallace/justin-kelly-theme.git
+[submodule ".themes/libingcun-octopress-theme"]
+	path = .themes/libingcun-octopress-theme
+	url = git://github.com/libingcun/libingcun-octopress-theme.git
+[submodule ".themes/mathy"]
+	path = .themes/mathy
+	url = git://github.com/stchangg/mathy.git
+[submodule ".themes/minimalist"]
+	path = .themes/minimalist
+	url = git://github.com/ryandeussing/octopress-minimalist.git
+[submodule ".themes/minimized"]
+	path = .themes/minimized
+	url = git://github.com/laurenceman/minimized.git
+[submodule ".themes/mnml"]
+	path = .themes/mnml
+	url = git://github.com/ioveracker/mnml.git
+[submodule ".themes/nologo"]
+	path = .themes/nologo
+	url = git://github.com/mjhea0/noLogo.git
+[submodule ".themes/octoflat"]
+	path = .themes/octoflat
+	url = https://github.com/alexgaribay/octoflat
+[submodule ".themes/octopress-flat"]
+	path = .themes/octopress-flat
+	url = git://github.com/alexharris/octopress-flat.git
+[submodule ".themes/calm-shallow-sea"]
+	path = .themes/calm-shallow-sea
+	url = git://github.com/alexharris/calm-shallow-sea.git
+[submodule ".themes/fabric"]
+	path = .themes/fabric
+	url = git://github.com/panks/fabric.git
+[submodule ".themes/greyshade"]
+	path = .themes/greyshade
+	url = git://github.com/shashankmehta/greyshade.git
+[submodule ".themes/greyjoy"]
+	path = .themes/greyjoy
+	url = git://github.com/rezajatnika/greyjoy.git
